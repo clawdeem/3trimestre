@@ -1,1 +1,7 @@
-# 3trimestre
+Colégio Estadual João De Faria pioli 
+
+Gracieli Vitóŕia Martins Ramos  Henrique Takata Barela
+
+projeto de pensamento computacional
+
+meu site é sobre Artesanato 
