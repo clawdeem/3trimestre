@@ -1,8 +1,8 @@
-body{background-color:#3efaf7;text-align:justify;font-size:18px;}
+body{background-color:#6912db;text-align:justify;font-size:18px;}
 h1 {text-align:center;background-color: #3efaf7;color:#17313b;}
 h3{text-align:justify;color: #3efaf7;}
-b{color:blue;font-size: 18px;}
-I{color:blue;font-size: 18px;}
+b{color:rgb(255, 0, 242);font-size: 18px;}
+I{color:rgb(255, 0, 212);font-size: 18px;}
 header,footer{background-color:#499cba;color:#ceeffc;text-align:center;font-size:20px;}
 main{background-color:#8ddefc;}
 .primeiroparagrafo{text-align: justify;font-size: 18px;border:black solid 2px; padding: 10px;margin:10px;}
